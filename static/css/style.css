@@ -1,0 +1,23 @@
+.header {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+
+.phone {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.phone img {
+    height: 400px;
+}
+
+.sort-block .sort-item {
+    padding-right: 20px;
+}
+
+.price {
+    font-weight: bold;
+}
+
